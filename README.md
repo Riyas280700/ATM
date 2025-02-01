@@ -2,7 +2,7 @@
 
 ATM
 
-### Overview:
+# Project Description:
 1. **ATM Class**: 
    - The `ATM` class is responsible for storing the balance, deposit amount, and withdrawal amount. It has getter and setter methods to manage these values.
 
