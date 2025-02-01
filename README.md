@@ -27,14 +27,5 @@ Your project is an ATM simulation in Java that allows users to interact with a v
 - **Mini Statement**: The ATM records the most recent deposit and withdrawal transactions in a mini statement for the user to view.
 - **Exit Option**: Users can exit the system and "collect" their ATM card when finished.
 
-### Flow of the Project:
-1. When the user runs the program, they are prompted to input an ATM number and PIN.
-2. If the credentials are correct, the user is presented with a menu to select actions.
-3. Based on the user's choice, the program either displays the balance, processes a withdrawal, accepts a deposit, shows a mini statement, or exits the program.
 
-### Key Concepts:
-- **Object-Oriented Design**: The project makes good use of classes, objects, methods, and interfaces.
-- **Transaction History**: Using a `HashMap` to store and display transaction details (deposit/withdrawal) is an efficient way to track actions.
-- **ATM Simulation**: The project simulates real-world ATM operations, offering functionalities like balance checking, deposits, and withdrawals with conditions (e.g., withdrawal multiples of 500).
 
-This project demonstrates fundamental concepts of Java, such as classes, interfaces, inheritance, conditionals, loops, and user input handling. It can be further expanded to include features like password recovery, error handling, and more complex transaction tracking.
