@@ -23,7 +23,6 @@ ATM
      - The application will continue to loop and allow users to make transactions until they choose to exit.
 
 ### Features:
-- **Authentication**: Users must enter a correct ATM number and PIN to access the system.
 - **Withdrawals**: Users can withdraw amounts in multiples of 500.
 - **Deposits**: Users can deposit any amount, and the system updates the balance.
 - **Mini Statement**: The ATM records the most recent deposit and withdrawal transactions in a mini statement for the user to view.
