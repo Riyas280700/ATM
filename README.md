@@ -1,4 +1,6 @@
-Your project is an ATM simulation in Java that allows users to interact with a virtual ATM machine. The project is structured into several classes, each fulfilling a distinct role in the ATM operation.
+# Project Title:
+
+ATM
 
 ### Overview:
 1. **ATM Class**: 
